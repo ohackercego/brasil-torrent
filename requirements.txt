@@ -1,0 +1,4 @@
+libtorrent==2.0.13
+wxPython==4.2.4
+accessible-output2==0.17
+pywin32==311
